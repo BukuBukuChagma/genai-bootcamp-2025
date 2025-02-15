@@ -88,6 +88,7 @@ Here is an example of simple sentence structures.
 - try and provide a non-nested bulleted list
 - there should be only 3 clues/considerations
 - talk about the vocabulary but there is no need to mention the actual korean words, since the student can refer to the vocabulary table for that.
+- in clues don't exactly mention what the student should use, instead point them to the right direction
 
 
 Student Input: I'm going to the cafe for a coffee. 
